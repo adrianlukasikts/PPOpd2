@@ -1,20 +1,20 @@
-11
-12
-15
+11 tresc1
+12 tresc2
+15 tresc3
 drukuj
 drukuj
 drukuj
 drukuj
 drukuj
-33
-41
-50
-27
+33 tresc4
+41 tresc5
+50 tresc6
+27 tresc7
 drukuj
 drukuj
-34
+34 tresc8
 drukuj
 drukuj
-21
-28
+21 tresc9
+28 tresc10
 koniec

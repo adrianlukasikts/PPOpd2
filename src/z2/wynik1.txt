@@ -1,12 +1,12 @@
-15
-12
-11
+15 tresc3
+12 tresc2
+11 tresc1
 brak
 brak
-50
-41
-34
-33
-28
-27
-21
+50 tresc6
+41 tresc5
+34 tresc8
+33 tresc4
+28 tresc10
+27 tresc7
+21 tresc9
